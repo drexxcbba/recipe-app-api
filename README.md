@@ -1,2 +1,3 @@
 # recipe-app-api
-Recipe app api source code.
+
+## This is a REST API with Python, Django REST Framework and Docker using Test Driven Development (TDD).
